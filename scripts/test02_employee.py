@@ -37,3 +37,5 @@ class TestEmployee(unittest.TestCase):
         print("删除数据结果为: ",r.json())
         # 断言
         assert_common(self,r)
+
+        # 我不会
