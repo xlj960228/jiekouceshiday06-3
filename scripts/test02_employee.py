@@ -39,3 +39,6 @@ class TestEmployee(unittest.TestCase):
         assert_common(self,r)
 
         # 我不会
+
+
+        # 烦人
