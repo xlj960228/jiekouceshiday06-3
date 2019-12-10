@@ -38,6 +38,5 @@ class TestEmployee(unittest.TestCase):
         # 断言
         assert_common(self,r)
 
-        # 我不会
 
 
